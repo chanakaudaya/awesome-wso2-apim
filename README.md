@@ -9,6 +9,15 @@ This repository contains a list of awesome resources on WSO2 API Manager.
 - [API Manager concepts](https://docs.wso2.com/display/AM260/Key+Concepts)
 - [Architecting API Management solutions with WSO2 API Manager](https://medium.com/scalable/architecting-api-management-solutions-with-wso2-api-manager-ffd213857b4f)
 
+## Quick Start Guides
+- [Quick Start Guide in Documentation](https://docs.wso2.com/display/AM260/Quick+Start+Guide)
+- [Getting Started with WSO2 API Manager](https://docs.wso2.com/display/AM260/Tutorials)
+- [WSO2 API Manager cheat sheet](https://medium.com/wso2-learning/wso2-api-manager-2-1-0-cheat-sheet-eed62523206e)
+
+### Microgateway
+- [Quick start guide on documentation](https://docs.wso2.com/display/AM260/Microgateway+Quick+Start)
+- [Microgateway cheat sheet](https://dzone.com/articles/wso2-api-microgateway-260-cheat-sheet)
+
 ## Deployment patterns
 - [WSO2 API Manager deployment patterns](https://dzone.com/articles/understanding-wso2-api-manager-deployment-patterns)
 - [Scalable deployment patterns with WSO2 API Manager](https://www.slideshare.net/wso2.org/scalable-deployment-patterns-in-api-manager)
