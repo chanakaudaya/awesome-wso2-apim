@@ -22,6 +22,11 @@ This repository contains a list of awesome resources on WSO2 API Manager.
 - [WSO2 API Manager deployment patterns](https://dzone.com/articles/understanding-wso2-api-manager-deployment-patterns)
 - [Scalable deployment patterns with WSO2 API Manager](https://www.slideshare.net/wso2.org/scalable-deployment-patterns-in-api-manager)
 - [Multi-region/Multi-datacenter deployment pattern](https://wso2.com/library/article/2017/10/benefits-of-a-multi-regional-api-management-solution-for-a-global-enterprise/)
+- [Scalable Traffic Manager deployment patterns-1](https://wso2.com/library/articles/2016/10/article-scalable-traffic-manager-deployment-patterns-for-wso2-api-manager-part-1/)
+- [Scalable Traffic Manager deployment patterns-2](https://wso2.com/library/articles/2016/10/article-scalable-traffic-manager-deployment-patterns-for-wso2-api-manager-part-2/)
+- [Distributed deployment guideline](https://docs.wso2.com/display/AM260/Understanding+the+Distributed+Deployment+of+WSO2+API-M)
+- [Distributed deployment tips](https://medium.com/working-with-wso2-products/wso2-api-manager-distributed-architecture-configuration-tips-ubuntu-e64ff8c5aad0)
+
 
 ## Deployment automation and CI/CD
 - [Building an automated deployment in WSO2 API Cloud](https://docs.wso2.com/display/APICloud/Continuous+Integration+and+Deployment+for+WSO2+API+Cloud)
@@ -60,3 +65,11 @@ This repository contains a list of awesome resources on WSO2 API Manager.
 - [Performance testing scripts](https://github.com/wso2/performance-apim)
 - [Performance benchmark results and capacity planning](https://docs.wso2.com/display/AM260/WSO2+API-M+Performance+and+Capacity+Planning)
 - [Latency distribution of WSO2 API Manager](https://medium.com/@malith.jayasinghe/on-the-latency-distribution-of-a-middleware-server-a-case-study-based-on-wso2-api-manager-c19097414f4f)
+
+## Features
+### Throttling
+- [WSO2 API Manager throttling architecture](https://wso2.com/library/articles/2016/09/article-introducing-wso2-api-managers-throttling-implementation-architecture/)
+- [Implement custom throttling with WSO2 API Manager](https://medium.com/wso2-learning/implement-user-based-throttling-with-wso2-api-manager-4bd64e6afa6f)
+- [Using throttling with WSO2 API Manager](https://nadeesha678.wordpress.com/2015/08/19/throttling-of-apis-using-wso2-api-manager/)
+
+
